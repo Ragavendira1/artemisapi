@@ -1,0 +1,16 @@
+com\sqs\artemisapi\models\ResponseData.class
+com\sqs\artemisapi\models\Application.class
+com\sqs\artemisapi\models\Project.class
+com\sqs\artemisapi\models\User.class
+com\sqs\artemisapi\common\DBSchema.class
+com\sqs\artemisapi\controllers\ElementStoreController.class
+com\sqs\lib\MongoDB$FilterOperators.class
+com\sqs\artemisapi\common\CommonLibrary.class
+com\sqs\lib\MongoDB.class
+com\sqs\artemisapi\controllers\UserController.class
+com\sqs\artemisapi\models\ProjectAccess.class
+com\sqs\artemisapi\models\ElementStore.class
+com\sqs\artemisapi\controllers\ApplicationController.class
+com\sqs\artemisapi\controllers\ProjectController.class
+com\sqs\lib\MongoDB$SearchCriteria.class
+com\sqs\artemisapi\common\Authentication.class
